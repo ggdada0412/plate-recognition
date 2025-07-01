@@ -1,6 +1,7 @@
 # plate-recognition
 車牌辨識系統(Python + AWS)
 
+```python
 import os
 import time
 import boto3
@@ -146,3 +147,4 @@ def update_camera():
 root.after(0, update_camera)
 root.mainloop()
 cap.release()
+```

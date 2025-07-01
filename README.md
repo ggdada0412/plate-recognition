@@ -1,5 +1,5 @@
 # plate-recognition
-車牌辨識系統（Python + AWS）
+車牌辨識系統(Python + AWS)
 
 import os
 import time
